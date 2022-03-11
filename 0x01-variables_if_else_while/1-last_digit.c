@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Determine if last digit of a random number is greater than
+ * main - Determine if last digit of a random number is greater than 
  * less than 5 or is zero.  
  * Return: Always 0 if successful.
  */
