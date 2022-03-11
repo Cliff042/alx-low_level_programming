@@ -4,8 +4,7 @@
 
 /**
  * main - Determine if last digit of a random number is greater than
- * less than 5 or is zero. 
-(* 
+ * less than 5 or is zero.  
  * Return: Always 0 if successful.
  */
 
