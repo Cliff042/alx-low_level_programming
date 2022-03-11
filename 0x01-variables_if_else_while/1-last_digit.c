@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - the last digit.
  * This program will assign a random number to the variable n, 
@@ -8,6 +9,7 @@
  * and determine if it is < > than 5.
  * Return: Always 0 if successful.
  */
+
 int main(void)
 {
 	int n;
