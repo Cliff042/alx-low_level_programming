@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - This program will assign a random number to the variable n 
- * each time it is executed.
+ * main - Determine if last digit of a random number is greater than
+ * , less than 5 or is zero. 
  * and determine if it is greater than, less than 5 or zero.
  * Return: Always 0 if successful.
  */
