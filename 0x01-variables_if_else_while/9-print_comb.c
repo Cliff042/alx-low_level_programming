@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Prints lowercase the uppercase alphabet.
+ * main - Prints all possible combinations of single-digit numbers.
+ * separated by , followed by a space.
 (*
  * Return: 0 if successful.
  */
