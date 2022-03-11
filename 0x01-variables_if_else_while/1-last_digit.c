@@ -7,7 +7,6 @@
  * This program will assign a random number to the variable n 
  * each time it is executed.
  * and determine if it is < > than 5.
- *
  * Return: Always 0 if successful.
  */
 
