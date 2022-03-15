@@ -6,9 +6,9 @@
  * Return: 1 if uppercase, 0 if otherwise.
  */
 
- int _isalpha(int c)
+int _isalpha(int c)
 {
-	if (( c >= 'A' && c <= 'Z') || ( c >= 'a' && c <= 'z'))
+	if(( c >= 'A' && c <= 'Z') || ( c >= 'a' && c <= 'z'))
 		return (1);
 
 	else
